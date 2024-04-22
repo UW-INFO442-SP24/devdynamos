@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+<h1 align="center">DevDynamos</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Our Mission
 
-## Available Scripts
+Our main focus on our project is prioritizing the United Nations Sustainable Development Goal 11, Sustainable Cities and Communities, and 12, Responsible Consumption and Production. We are looking at the University of Washington and creating a platform to educate the community on recycling and waste management. Our platform will have some information to teach about the recycling requirements on the UW campus as well as a quiz to practice what you learn. The goal is to teach the community about the specific waste management starting on the UW campus and eventually spreading to other parts of Seattle or other college campuses.
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- Interactive quiz to assess user’s recycling knowledge
+- Interactive flippable cards that display informative information based on the user’s results of the quiz
+- An interactive nav bar that will allow users to click between the different pages
+- Informative resources about different recycling rules and fun facts that students may not know
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Group Members
 
-### `npm test`
+- Daria Markewych
+- Meg Balfrey
+- Nooha Mohammed
+- Jameel Le
+- Amber Carbajal
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Developer Information
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Built with:
+- React JS
+- Bootstrap
+- HTML, CSS, JavaScript
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## References
