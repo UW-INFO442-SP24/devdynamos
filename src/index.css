@@ -3,7 +3,7 @@
 }
 
 body {
-    background-color: #f8f9fa;
+    background-color: #ebf3e988;
     font-family: 'Courier New', Courier, monospace;
 }
 
@@ -255,9 +255,6 @@ a {
 }
 
 @media (min-width: 768px) {
-    body {
-        background-color: #f8f9fa;
-    }
     
     nav {
         background-color: #345f38;
