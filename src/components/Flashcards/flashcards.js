@@ -29,19 +29,6 @@ function Card(props) {
   
     return (
       <div>
-        <header>
-          <nav>
-            <h1>ReNewCycle Project</h1>
-            <ul className="nav-links">
-              <li><a href="about.js">About</a></li>
-              <li><a href="flashcards.js">Flashcards</a></li>
-              <li><a href="quiz.js">Quiz</a></li>
-              <li><a href="resources.js">Resources</a></li>
-              {/* likely need to fix all of this to fit JS */}
-            </ul>
-          </nav>
-        </header>
-  
         <div className="index-container">
           <h1>Learn about how to recycle at UW!</h1>
           <div className="search-bar">
@@ -55,11 +42,7 @@ function Card(props) {
             ))}
           </div> */}
         </div>
-  
-        <footer>
-          <p>&copy; 2024 ReNewCycle Project</p>
-          <p>Info 442</p>
-        </footer>
+
       </div>
     );
   }
