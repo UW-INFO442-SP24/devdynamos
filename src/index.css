@@ -304,3 +304,12 @@ a {
     }
 }
 
+.about-us {
+    text-align: center;
+  }
+  
+  .about-us p {
+    margin: 0 auto;
+    max-width: 600px;
+  }
+  
