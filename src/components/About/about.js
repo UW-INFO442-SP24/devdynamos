@@ -1,6 +1,8 @@
 import React from "react";
 import { Link } from 'react-router-dom';
-// import './index.css'
+// import './about.css'
+import uw_recycling_logo from '../img/uw-recycling-logo.jpeg';
+import un_sdgs from '../img/un_sdgs.webp';
 
 function About() {
   return (
@@ -18,6 +20,7 @@ function About() {
         <p>
           Within our site, users will discover an array of tools such as a quiz and flashcards to enahnce their recycling knowledge.
         </p>
+        <img src={uw_recycling_logo} alt="UW Recycling Logo" style={{ width: '40%', height: 'auto' }} />
       </div>
       <div className="about-us">
         <h2>UN Sustainable Development Goals</h2>
@@ -30,6 +33,7 @@ function About() {
         </p>
         <p>
            <a href="https://www.un.org/sustainabledevelopment/sustainable-development-goals/" style={{ fontWeight: 'bold' }}>Learn more about the UN Sustainable Development Goals here</a>!
+           <img src={un_sdgs} alt="UN SDG Goals" style={{ width: '50%', height: 'auto' }} />
         </p>
       </div>
     </>
@@ -37,4 +41,3 @@ function About() {
 }
 
 export default About;
-
