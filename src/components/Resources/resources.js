@@ -64,6 +64,15 @@ function resources() {
               <NavLink to="https://docs.google.com/forms/d/e/1FAIpQLSdmfVrk0dR9I1KRfd7yqFtahQa626VOHAxpPh_ZhkGWYrzTCA/viewform" activeClassName="active"> <div className="learn-more"> Learn More </div></NavLink>
           </div>
         </div>
+        <div className="step">
+          <div className="step-content">
+            <h3>6. UW Recycling Insights</h3>
+            <p>Insights into what happens to waster and recycling at the University of Washington.</p>
+          </div>
+            <div className="step-image">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/c0MlOuOPjfU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </div>
       </div>
     );
   }
