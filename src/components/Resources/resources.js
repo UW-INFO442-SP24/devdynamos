@@ -70,7 +70,7 @@ function resources() {
             <p>Insights into what happens to waster and recycling at the University of Washington.</p>
           </div>
             <div className="step-image">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/c0MlOuOPjfU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="560" height="315" src="https://youtu.be/c0MlOuOPjfU?si=nA4ITRg9DgT041io" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div>
       </div>
