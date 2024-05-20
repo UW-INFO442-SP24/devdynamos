@@ -26,7 +26,6 @@ const QuizComponent = () => {
        //customResultPage={renderCustomResultPage} // Enables custom result page
        continueTillCorrect ={true}
        showInstantFeedback={true} // Shows instant feedback
-       timer={20} // Sets a timer of 60 seconds per question
      />
    </div>
  );
