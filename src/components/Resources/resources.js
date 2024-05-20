@@ -26,10 +26,9 @@ function resources() {
         </div>
         <div className="step">
           <div className="step-content">
-            <h3>2. Find Local Infrastructures </h3>
-            <p>To find resources such as the nearest non-profit organizations near you, libraries, educational institutions and skill centers, 
-              you can go to the Interactive Map tab and filter for which infrastructures you would like to find. </p>
-              <NavLink to="/interactivemap" activeClassName="active"> <div className="learn-more"> Learn More </div></NavLink>
+            <h3>2. King County Recycling </h3>
+            <p>King County’s recycling best practices and services. University of Washington is in King County.</p>
+              <NavLink to="https://kingcounty.gov/en/dept/dnrp/waste-services/garbage-recycling-compost/services/recycling" activeClassName="active"> <div className="learn-more"> Learn More </div></NavLink>
           </div>
           <div className="step-image">
             <img src={trashcans} alt="Step 2" />
@@ -40,21 +39,29 @@ function resources() {
             <img src={cherry} alt="Step 3" />
           </div>
           <div className="step-content">
-            <h3>3. Budget Your Program</h3>
-            <p>To access helpful budgeting tips for planning your program, simply navigate to the budgeting page. 
-              There, you'll find valuable insights to assist you in effectively managing your community initiatives.</p>
-              <NavLink to="/funding" activeClassName="active"> <div className="learn-more"> Learn More </div></NavLink>
+            <h3>3. Hazardous Materials</h3>
+            <p>University of Washington resource for getting rid of hazardous and potentially contaminated supplies. </p>
+              <NavLink to="https://www.ehs.washington.edu/hazardous-material-disposal-and-recycling" activeClassName="active"> <div className="learn-more"> Learn More </div></NavLink>
           </div>
         </div>
         <div className="step">
           <div className="step-content">
-            <h3>4. Enhance Your Leadership Skills</h3>
-            <p>Explore workshops and relevant articles on expanding your leadership skills on our Practitioner Toolkit page. Access insights, connect with organizations, and 
-              learn effective community service strategies.</p>
-              <NavLink to="/practitioner" activeClassName="active"> <div className="learn-more"> Learn More </div></NavLink>
+            <h3>4. UW Sustainability</h3>
+            <p>University of Washington sustainability student organizations individuals can become involved with.</p>
+              <NavLink to="https://sustainability.uw.edu/action/students/groups" activeClassName="active"> <div className="learn-more"> Learn More </div></NavLink>
           </div>
           <div className="step-image">
-            <img src={rainer} alt="Step 4" />
+            <img src={sustainability} alt="Step 4" />
+          </div>
+        </div>
+        <div className="step">
+        <div className="step-image">
+            <img src={cherry} alt="Step 5" />
+          </div>
+          <div className="step-content">
+            <h3>5. UW Waste 101</h3>
+            <p>University of Washington Waste 101 Learning Course.</p>
+              <NavLink to="https://docs.google.com/forms/d/e/1FAIpQLSdmfVrk0dR9I1KRfd7yqFtahQa626VOHAxpPh_ZhkGWYrzTCA/viewform" activeClassName="active"> <div className="learn-more"> Learn More </div></NavLink>
           </div>
         </div>
       </div>
