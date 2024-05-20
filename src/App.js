@@ -4,6 +4,7 @@ import Header from './components/Header/header';
 import About from './components/About/about';
 import Flashcards from './components/Flashcards/flashcards';
 import Resources from './components/Resources/resources';
+import QuizComponent from './components/Quiz/quiz';
 import { Route, Routes } from 'react-router-dom';
 
 function App(prop) {
@@ -15,6 +16,7 @@ function App(prop) {
                     <Route path="/" element={<About />} />
                     <Route path="flashcards" element={<Flashcards />} />
                     <Route path='resources' element={<Resources />} />
+                    <Route path="quiz" element={<QuizComponent />} />
                 </Routes>
             </main>
             <footer>
