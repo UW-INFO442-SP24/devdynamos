@@ -66,8 +66,8 @@ function resources() {
         </div>
         <div className="step">
           <div className="step-content">
-            <h3>6. UW Recycling Insights</h3>
-            <p>Insights into what happens to waster and recycling at the University of Washington.</p>
+            <h3>6. Recycle More!</h3>
+            <p>Video showing that often recyclable items end up in the trash.</p>
           </div>
             <div className="step-image">
                 <iframe width="560" height="315" src="https://youtube.com/embed/2TfL6c01cBA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
