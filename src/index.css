@@ -313,3 +313,11 @@ a {
     margin: 0 auto;
     max-width: 600px;
   }
+
+
+.quiz-page {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+

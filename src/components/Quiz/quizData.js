@@ -17,7 +17,7 @@ export const quiz = {
         "messageForCorrectAnswer": "Correct answer. Good job.",
         "messageForIncorrectAnswer": "Pizza boxes with grease stains cannot be recycled due to contamination.",
         "explanation": "Pizza boxes with grease stains cannot be recycled due to contamination.",
-        "point": "5"
+        "point": "1"
       },
       {
         "question": "In King County, which type of plastic is NOT accepted in curbside recycling?",
@@ -33,7 +33,7 @@ export const quiz = {
         "messageForCorrectAnswer": "Correct answer. Good job.",
         "messageForIncorrectAnswer": "Incorrect answer. Please try again.",
         "explanation": "PVC (Polyvinyl chloride) is not accepted in curbside recycling in King County.",
-        "point": "5"
+        "point": "1"
       },
       {
         "question": "True or False: You can recycle shredded paper in your curbside recycling bin.",
@@ -47,7 +47,7 @@ export const quiz = {
         "messageForCorrectAnswer": "Correct answer. Good job.",
         "messageForIncorrectAnswer": "Incorrect answer. Please try again.",
         "explanation": "Shredded paper cannot be recycled in curbside bins because it can contaminate the recycling stream.",
-        "point": "5"
+        "point": "1"
       },
       {
         "question": "What should you do with old batteries (e.g., AA, AAA, or rechargeable batteries)?",
@@ -63,7 +63,7 @@ export const quiz = {
         "messageForCorrectAnswer": "Correct answer. Good job.",
         "messageForIncorrectAnswer": "Incorrect answer. Please try again.",
         "explanation": "Old batteries should be taken to a household hazardous waste disposal site.",
-        "point": "5"
+        "point": "1"
       },
       {
         "question": "What should you do with large recyclable items?",
@@ -79,7 +79,7 @@ export const quiz = {
         "messageForCorrectAnswer": "Correct answer. Good job.",
         "messageForIncorrectAnswer": "Incorrect answer. Please try again.",
         "explanation": "Large recyclable items should be stacked next to the bin.",
-        "point": "5"
+        "point": "1"
       },
       {
         "question": "How much of the trash at UW is diverted from landfills through composting, recycling, or reselling?",
@@ -95,7 +95,7 @@ export const quiz = {
         "messageForCorrectAnswer": "Correct answer. Good job.",
         "messageForIncorrectAnswer": "Incorrect answer. Please try again.",
         "explanation": "60% of the trash at UW is diverted from landfills through composting, recycling, or reselling.",
-        "point": "5"
+        "point": "1"
       },
       {
         "question": "It is midterm session so you stop by Starbucks in Suzzallo to pick up a cup of coffee, after it’s empty and clean where should you dispose of it?",
@@ -110,7 +110,7 @@ export const quiz = {
         "messageForCorrectAnswer": "Correct answer. Good job.",
         "messageForIncorrectAnswer": "Incorrect answer. Please try again.",
         "explanation": "An empty and clean coffee cup should be recycled.",
-        "point": "5"
+        "point": "1"
       },
       {
         "question": "What objects are known to tangle recycling equipment?",
@@ -126,7 +126,7 @@ export const quiz = {
         "messageForCorrectAnswer": "Correct answer. Good job.",
         "messageForIncorrectAnswer": "Incorrect answer. Please try again.",
         "explanation": "Plastic bags, saran wrap, and holiday lights can tangle recycling equipment.",
-        "point": "5"
+        "point": "1"
       },
       {
         "question": "True or False: Amazon bubble mailers can be recycled",
@@ -140,7 +140,7 @@ export const quiz = {
         "messageForCorrectAnswer": "Correct answer. Good job.",
         "messageForIncorrectAnswer": "Incorrect answer. Please try again.",
         "explanation": "Amazon bubble mailers cannot be recycled in most curbside programs.",
-        "point": "5"
+        "point": "1"
       },
       {
         "question": "What should you do with plastic water bottle caps?",
@@ -155,7 +155,7 @@ export const quiz = {
         "messageForCorrectAnswer": "Correct answer. Good job.",
         "messageForIncorrectAnswer": "Incorrect answer. Please try again.",
         "explanation": "Plastic water bottle caps should be recycled while still on the water bottle.",
-        "point": "5"
+        "point": "1"
       },
       {
         "question": "When in doubt about whether an item is recyclable, what should you do?",
@@ -171,7 +171,7 @@ export const quiz = {
         "messageForCorrectAnswer": "Correct answer. Good job.",
         "messageForIncorrectAnswer": "Incorrect answer. Please try again.",
         "explanation": "When in doubt, check your city/county’s recycling guidelines.",
-        "point": "5"
+        "point": "1"
       }
     ]
   };
