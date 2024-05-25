@@ -9,7 +9,7 @@ function About() {
     <>
       <div>
         <section>
-          <h1>Welcome to ReNewCycle Project</h1>
+          <h2>Welcome to ReNewCycle Project</h2>
         </section>
       </div>
       <div className="about-us">

@@ -3,15 +3,14 @@
 }
 
 body {
-    background-color: #ebf3e988;
+    background-color: #ecedec;
     font-family: 'Courier New', Courier, monospace;
 }
-
 header {
-    background-color: #86a28b;
+    letter-spacing: 5px;
+    background-color: #3d443e;
     color: #fafafa;
-    padding: 5px;
-}
+    padding: 5px;}
 
 h1 {
     margin: 5px;
@@ -19,7 +18,8 @@ h1 {
 }
 
 .navbar {
-    background-color: #91b298;
+    background-color: #3d443e;
+    color: #fafafa;
     padding: 5px;
     display: flex;
     justify-content: flex-start;
@@ -34,11 +34,11 @@ h1 {
 }
 
 .navbar a {
-    color: #fff;
+    color: #ffffff;
     text-decoration: none;
+    letter-spacing: 2px;
     font-size: 16px;
     padding: 10px 20px;
-    border-radius: 5px;
     transition: background-color 0.3s ease;
 }
 
@@ -305,13 +305,19 @@ a {
     }
 }
 
+
 .about-us {
     text-align: center;
+    border-color: #345f38;
+    background-color: #fff;
+    margin: 2rem;
+    border-style: ridge;
+    border-top-left-radius: 5rem;
+    align-items: center;
   }
   
   .about-us p {
     margin: 0 auto;
-    max-width: 600px;
   }
 
 
