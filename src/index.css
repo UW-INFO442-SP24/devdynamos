@@ -4,21 +4,22 @@
 
 body {
     background-color: #ecedec;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 header {
-    letter-spacing: 5px;
-    background-color: #3d443e;
-    color: #fafafa;
-    padding: 5px;}
+    letter-spacing: 4px;
+    background-image: linear-gradient(to bottom right, #e4b7d4, rgb(180, 234, 122));
+    color: #fff;
+    padding: 5px;}  
 
 h1 {
     margin: 5px;
     text-align: center;
+    font-size: 20px;  
+
 }
 
 .navbar {
-    background-color: #3d443e;
     color: #fafafa;
     padding: 5px;
     display: flex;
@@ -30,16 +31,21 @@ h1 {
     display: flex;
     justify-content: flex-start;
     margin: 0;
-    padding: 0;
+    padding: 0;  
 }
 
 .navbar a {
-    color: #ffffff;
     text-decoration: none;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
     font-size: 16px;
     padding: 10px 20px;
     transition: background-color 0.3s ease;
+    font-style: bold;
+    color: #333c35;
+    border-style: solid;
+    border-color: #fff;
+    color: #fff;
+
 }
 
 .navbar a:hover {
@@ -47,7 +53,6 @@ h1 {
 }
 
 nav {
-    background-color: #075013;
     color: white;
     padding: .5rem;
     padding-left: 0;
@@ -258,7 +263,6 @@ a {
 @media (min-width: 768px) {
     
     nav {
-        background-color: #345f38;
         color: black;
         padding: .5rem;
         padding-left: 0;
@@ -304,22 +308,6 @@ a {
         align-items: center;
     }
 }
-
-
-.about-us {
-    text-align: center;
-    border-color: #345f38;
-    background-color: #fff;
-    margin: 2rem;
-    border-style: ridge;
-    border-top-left-radius: 5rem;
-    align-items: center;
-  }
-  
-  .about-us p {
-    margin: 0 auto;
-  }
-
 
 .quiz-page {
     text-align: center;

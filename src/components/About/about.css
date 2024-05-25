@@ -1,0 +1,24 @@
+
+h1 {
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.about-body {
+    background-color: #1e2d1f;
+}
+.about-us {
+    text-align: center;
+    border-color: #345f38;
+    background-color: #fff;
+    margin: 2rem;
+    border-width: 1%;
+    border-style: groove;
+    border-top-left-radius: 1rem;
+    align-items: center;
+    padding: 2rem
+  }
+  
+  .about-us p {
+    margin: 0 auto;
+  }

@@ -1,11 +1,13 @@
 import React from 'react';
-import './index.css';
+import 'bootstrap/dist/css/bootstrap.min.css'; // importing Bootstrap CSS
 import Header from './components/Header/header';
 import About from './components/About/about';
 import Flashcards from './components/Flashcards/flashcards';
 import Resources from './components/Resources/resources';
 import QuizComponent from './components/Quiz/quiz';
 import { Route, Routes } from 'react-router-dom';
+import './index.css';
+
 
 function App(prop) {
     return (
