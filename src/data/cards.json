@@ -1,0 +1,73 @@
+[
+    {
+        "id": "1", 
+        "name": "Food", 
+        "img": "./img/foodcard.jpeg", 
+        "description": "Learn how you can become more sustainable within specific ingredients, supermarkets, and food wastage.",
+        "alt": "acai bowl",
+        "location": [31.791702, -7.092620]
+    },
+
+    {
+        "id": "2", 
+        "name": "Fashion", 
+        "description": "Learn about sustainable materials, fashion industry practices, and how to read clothing tags for long-lasting fashion articles that look good on you and the planet.",
+        "alt": "rack of clothes at the store",
+        "img": "./img/fashioncard.jpg", 
+        "location": [37.090240, -95.712891]
+    },
+
+    {
+        "id": "3", 
+        "name": "Home", 
+        "description": "Learn about affordable sustainable materials, the most efficient way to maximize energy usage and buying long lasting products for your home.",
+        "alt": "living room",
+        "img": "./img/homecard.jpg", 
+        "location": [-25.274399, 133.775131]
+    },
+
+    {
+        "id": "4", 
+        "name": "Transportation", 
+        "alt": "man riding a bike",
+        "description": "Learn about eco-friendly transportation options such as public transportation, electric vehicles, biking, and carpooling to minimize your carbon footprint.",
+        "img": "./img/transportationcard.jpg", 
+        "location": [48.379433, 31.165581]
+    },
+
+    {
+        "id": "5", 
+        "name": "Cosmetics", 
+        "description": "Learn more about more sustainable brands that use the best minerals and ingredients for the environment!",
+        "img": "./img/cosmeticscard.jpg", 
+        "alt": "various makeup products and brushes",
+        "location": [7.9465, 1.0232]
+    },
+    
+    {
+        "id": "6", 
+        "name": "Reduce Waste", 
+        "description": "Learn how you can reduce waste in your daily life and spendings to be more sustainable for the environment, and maybe save a few bucks too.",
+        "img": "./img/reducewastecard.jpg", 
+        "alt": "reusable cups with lids and straws",
+        "location": [38.9637, 35.2433]
+    },
+    
+    {
+        "id": "7", 
+        "name": "Clean Energy", 
+        "description": "Learn about the different types of clean energy and how they create electricity without burning fossil fuels.",
+        "img": "./img/cleanenergycard.jpg", 
+        "alt": "wind turbine, solar panel, and dam",
+        "location": [36.2048, 138.2529]
+    },
+
+    {
+        "id": "8", 
+        "name": "Pets",  
+        "alt": "happy golden retriever",
+        "description": "Learn about the most sustainable foods and best grooming equipment you can find for your pets. The cutest pet accessories may not be more than a mile away!",
+        "img": "./img/petscard.jpg", 
+        "location": [-15.793889, -47.882778]
+    }
+]

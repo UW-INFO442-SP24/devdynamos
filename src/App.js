@@ -1,5 +1,5 @@
 import React from 'react';
-import 'bootstrap/dist/css/bootstrap.min.css'; // importing Bootstrap CSS
+//import 'bootstrap/dist/css/bootstrap.min.css'; // importing Bootstrap CSS
 import Header from './components/Header/header';
 import About from './components/About/about';
 import Flashcards from './components/Flashcards/flashcards';
