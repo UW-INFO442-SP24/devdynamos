@@ -4,9 +4,11 @@ import "./resources.css";
 
 import trashcans from '../img/trashcan.jpeg';
 import cherry from '../img/cheery.jpeg';
-import rainer from '../img/rainer.jpeg';
+import rainier from '../img/rainer.jpeg';
 import sustainability from '../img/sustainaility.jpeg';
-import uw from '../img/uw-recycling-logo.jpeg';
+// import uw from '../img/uw-recycling-logo.jpeg';
+import campusTrash from "../img/campusTrash.jpeg";
+import kcRecycle from "../img/kcRecycle.jpeg"
 
 
 function resources() {
@@ -14,7 +16,7 @@ function resources() {
       <div>
           <div className="step">
           <div className="step-image">
-            <img src={uw} alt="Step 1" />
+            <img src={campusTrash} alt="Step 1" />
           </div>
           <div className="step-content">
             <h3>1. UW Recycling Guide</h3>
@@ -31,7 +33,7 @@ function resources() {
               <NavLink to="https://kingcounty.gov/en/dept/dnrp/waste-services/garbage-recycling-compost/services/recycling" activeClassName="active"> <div className="learn-more"> Learn More </div></NavLink>
           </div>
           <div className="step-image">
-            <img src={trashcans} alt="Step 2" />
+            <img src={kcRecycle} alt="Step 2" />
           </div>
         </div>
         <div className="step">
@@ -56,7 +58,7 @@ function resources() {
         </div>
         <div className="step">
         <div className="step-image">
-            <img src={cherry} alt="Step 5" />
+            <img src={rainier} alt="Step 5" />
           </div>
           <div className="step-content">
             <h3>5. UW Waste 101</h3>

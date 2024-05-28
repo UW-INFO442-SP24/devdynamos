@@ -41,7 +41,7 @@ function About() {
           </p>
           <p>
             <a href="https://www.un.org/sustainabledevelopment/sustainable-development-goals/" style={{ fontWeight: 'bold' }}>Learn more about the UN Sustainable Development Goals here</a>!
-            <img src={un_sdgs} alt="UN SDG Goals" style={{ width: '50%', height: 'auto' }} />
+            <p><img src={un_sdgs} alt="UN SDG Goals" style={{ width: '50%', height: 'auto' }} /></p>
           </p>
         </div>
         </div>

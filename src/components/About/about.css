@@ -5,14 +5,15 @@ h1 {
 }
 
 .about-body {
-    background-color: #1e2d1f;
+    background-color: #efeded;
+    align-items: center;
 }
 .about-us {
     text-align: center;
-    border-color: #345f38;
+    border-color: #1f3f22;
     background-color: #fff;
     margin: 2rem;
-    border-width: 1%;
+    border-width: 5%;
     border-style: groove;
     border-top-left-radius: 1rem;
     align-items: center;
