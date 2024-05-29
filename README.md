@@ -11,7 +11,6 @@ How might we encourage University of Washington students to engage in responsibl
 ## Features
 
 - Interactive quiz to assess user’s recycling knowledge
-- Interactive flippable cards that display informative information based on the user’s results of the quiz
 - An interactive nav bar that will allow users to click between the different pages
 - Informative resources about different recycling rules and fun facts that students may not know
 
