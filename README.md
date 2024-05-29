@@ -25,7 +25,7 @@ How might we encourage University of Washington students to engage in responsibl
   
 
 ## Published Site
-The published site can be viewed here: https://devdynamos-1.onrender.com/resources
+The published site can be viewed here: https://devdynamos-1.onrender.com
 
 
 ## Developer Information
