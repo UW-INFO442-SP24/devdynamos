@@ -1,0 +1,30 @@
+# Testing Protocol 
+We have created a series of testing protocols in order to make sure of solution meets our functional requirements. 
+
+## Resource page features
+Test 1
+Click on ‘learn more’ button 
+Make sure that it leads the user to the right resource page
+
+In addition, for embedded video click on the video 
+Make sure that it plays and users can control (pause, start) the video
+
+This test allows us to make sure that the resources embedded in our resource page are accessible. If when clicked they allow users to view the resource then this test passes. 
+
+
+## Quiz page features 
+Test 2
+Click on every possible answer to a question to make sure it is an option
+Once the quiz is completed users can use the filter feature to view correct, incorrect, or all questions
+
+This test allows us to make sure that the quiz works. It looks at both the act of taking the quiz and the results to test for its full functionality. If the user is able to click on all answer options, click through the quiz, is given a result, and is able to filter through the various questions then the quiz feature works correctly and this test passes.
+
+
+
+## General Test Practices
+Manual Test
+To make sure our solution works on multiple types of screen sizes, we used the inspector to change screen size display and view that the website is functionally working on each one. 
+We examined it as functionally working if all information was viewable and easy to navigate through. This included having the hamburger navigation bar appear and the images on the resource page disappear on small screen sizes. This test passed if everything was still easy to navigate through and view.
+
+To make sure our solution worked on multiple devices we tested using our website on both an iPad and computer. This test passed if everything could be clicked on and navigated through with both mouse and touch-driven actions.
+
