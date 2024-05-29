@@ -34,9 +34,10 @@ The published site can be viewed here:
 Built with:
 - React JS
 - HTML, CSS, JavaScript
+  
 
-# Start Local Host
-npm install react-quiz-component
-npm start
-Ctrl + C to cancel
+## Start Local Host
+`npm install react-quiz-component`
+`npm start`
+`Ctrl + C` to cancel
 
