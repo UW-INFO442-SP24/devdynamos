@@ -23,14 +23,20 @@ How might we encourage University of Washington students to engage in responsibl
 - Nooha Mohammed
 - Jameel Le
 - Amber Carbajal
+  
+
+## Published Site
+The published site can be viewed here: 
 
 
 ## Developer Information
 
 Built with:
 - React JS
-- Bootstrap
 - HTML, CSS, JavaScript
 
+# Start Local Host
+npm install react-quiz-component
+npm start
+Ctrl + C to cancel
 
-## References
