@@ -4,9 +4,9 @@ import Header from './components/Header/header';
 import About from './components/About/about';
 import Resources from './components/Resources/resources';
 import QuizComponent from './components/Quiz/quiz';
+import Flashcards from './components/Flashcards/flashcards';
 import { Route, Routes } from 'react-router-dom';
 import './index.css';
-// import data from './src/data'; // Import the data from cards.json
 
 
 function App(prop) {
@@ -19,6 +19,7 @@ function App(prop) {
                     <Route path="/" element={<About />} />
                     <Route path='resources' element={<Resources />} />
                     <Route path="quiz" element={<QuizComponent />} />
+                    <Route path="flashcards" element={<Flashcards />} />
                 </Routes>
             </main>
             </div>

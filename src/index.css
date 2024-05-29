@@ -110,7 +110,7 @@ form {
     text-align: center;
 }
 
-.category-card-img {
+/* .category-card-img {
     border-radius: 10px;
     filter: brightness(70%);
     opacity: 0.8;
@@ -136,8 +136,8 @@ form {
 .category-card-wrapper {
     margin-bottom: 10rem;
     height: 21rem;
-    /* text-align: center; */
-    /* position: relative; */
+    text-align: center;
+    position: relative;
   }
   
 
@@ -174,7 +174,7 @@ form {
 .card-text {
     font-size: 1rem;
     color: black;
-}
+} */
 
 
 footer {
@@ -192,7 +192,7 @@ a {
     color: black;
 }
 
-
+/* 
 .review-container {
     text-align: center;
 }
@@ -244,7 +244,7 @@ a {
 .rev-card-text {
     font-size: 1rem;
     color: black;
-}
+} */
 .attribute-bubble {
     display: inline-block;
     padding: 5px 10px;
