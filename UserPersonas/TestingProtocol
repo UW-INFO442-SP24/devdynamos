@@ -23,8 +23,7 @@ This test allows us to make sure that the quiz works. It looks at both the act o
 
 ## General Test Practices
 Manual Test
-To make sure our solution works on multiple types of screen sizes, we used the inspector to change screen size display and view that the website is functionally working on each one. 
-We examined it as functionally working if all information was viewable and easy to navigate through. This included having the hamburger navigation bar appear and the images on the resource page disappear on small screen sizes. This test passed if everything was still easy to navigate through and view.
+To make sure our solution works on multiple types of screen sizes, we used the inspector to change screen size display and view that the website is functionally working on each one. We examined it as functionally working if all information was viewable and easy to navigate through. This included having the hamburger navigation bar appear and the images on the resource page disappear on small screen sizes. This test passed if everything was still easy to navigate through and view.
 
 To make sure our solution worked on multiple devices we tested using our website on both an iPad and computer. This test passed if everything could be clicked on and navigated through with both mouse and touch-driven actions.
 
