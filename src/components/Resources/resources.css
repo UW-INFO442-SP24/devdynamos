@@ -238,7 +238,7 @@ body {
     font-weight: bold;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 900px) {
     .step {
         align-items: center;
     }
