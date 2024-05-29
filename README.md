@@ -38,6 +38,8 @@ Built with:
 
 ## Start Local Host
 `npm install react-quiz-component`
+
 `npm start`
+
 `Ctrl + C` to cancel
 
