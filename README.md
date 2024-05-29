@@ -42,3 +42,6 @@ Built with:
 
 `Ctrl + C` to cancel
 
+
+## Warning 
+If our published website doesn’t load for you, take a moment and then refresh the page. Our Render server sometimes goes between healthy and unhealthy due to a memory cache error. 
