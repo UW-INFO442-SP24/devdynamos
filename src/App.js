@@ -7,7 +7,7 @@ import Resources from './components/Resources/resources';
 import QuizComponent from './components/Quiz/quiz';
 import { Route, Routes } from 'react-router-dom';
 import './index.css';
-import data from 'src/data'; // Import the data from cards.json
+// import data from './src/data'; // Import the data from cards.json
 
 
 function App(prop) {
